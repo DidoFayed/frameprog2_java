@@ -7,11 +7,11 @@ body {
   height: 100%;
   padding-top: 50px;
   margin: 0;
-  font-family: 'Nunito', serif;
+  font-family: montserrat;
   line-height: 1.5;
-  color: #606975;
+  color: rgb(0, 64, 128);
   text-align: left;
-  background-color: #f1f1f1;
+  background-color: rgb(255, 255, 255);
 }
 
 a {
